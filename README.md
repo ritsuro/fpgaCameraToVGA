@@ -1,10 +1,10 @@
 # fpgaCameraToVGA
-FPGAでCCDカメラを繋いでみました。2018年頃、電子工作で作りました。
+FPGAでカメラを繋いでみました。2018年頃、電子工作で作りました。
 
-電子工作用のCCDカメラをFPGAに繋ぐやり方です。迷っている方も多いと思います。
+電子工作用のカメラをFPGAに繋ぐやり方です。迷っている方も多いと思います。
 その手助けになればと、参考用に、古いコードも公開することにしました。
 
-Verilogで書かれたコード.vファイルのインデント（字下げ）がみづらいのでブラウザのURL欄の文末に「?ts=3」をつけると
+Verilogで書かれたコード.vファイルのインデント（字下げ）が見づらいのでブラウザのURL欄の文末に「?ts=3」をつけると
 空白が揃うようになります。
 例）https://github.com/ritsuro/fpgaCameraToVGA/blob/main/testCamera01AndSetup/testCamera01.v?ts=3
 
