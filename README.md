@@ -6,7 +6,7 @@ FPGAでCCDカメラを繋いでみました。2018年頃、電子工作で作り
 
 Verilogで書かれたコード.vファイルのインデント（字下げ）がみづらいのでブラウザのURL欄の文末に「?ts=3」をつけると
 空白が揃うようになります。
-例）https://github.com/ritsuro/fpgaCameraToVGA/blob/main/testCamera01AndSetup/testCamera01.v?ts=3　←これ
+例）https://github.com/ritsuro/fpgaCameraToVGA/blob/main/testCamera01AndSetup/testCamera01.v?ts=3
 
 FPGAボードは  terasic DE0-Nano (ALTERA Cyclone IV EP4CE22F17C6N FPGA)　です。  
 開発ツールはQuartus Prime Version 17 Lite Edition（無償版）です。  
