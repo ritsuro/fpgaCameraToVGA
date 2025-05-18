@@ -4,6 +4,10 @@ FPGAでCCDカメラを繋いでみました。2018年頃、電子工作で作り
 電子工作用のCCDカメラをFPGAに繋ぐやり方です。迷っている方も多いと思います。
 その手助けになればと、参考用に、古いコードも公開することにしました。
 
+Verilogで書かれたコード.vファイルのインデント（字下げ）がみづらいのでブラウザのURL欄の文末に「?ts=3」をつけると
+空白が揃うようになります。
+例）https://github.com/...省略.../testCamera01AndSetup/testCamera01.v?ts=3　　←これ
+
 FPGAボードは  terasic DE0-Nano (ALTERA Cyclone IV EP4CE22F17C6N FPGA)　です。  
 開発ツールはQuartus Prime Version 17 Lite Edition（無償版）です。  
 CMOSカラーカメラモジュールは『OV7670』（秋月電子にて980円で購入）、表示は標準の液晶モニター、VGA（640x480）です。
