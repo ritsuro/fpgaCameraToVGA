@@ -50,6 +50,19 @@ CMOSカラーカメラモジュールは『OV7670』（秋月電子にて980円�
 （４）フォントについて
 
    ツールで自作したものなので自由に使ってください。
+
+--------------------------  
+Camera to VGA  
+!["picture"](pic01.jpg)
+  
+VGA signal line  
+!["picture"](pic02.jpg)
+  
+Breadboard  
+!["picture"](pic03.jpg)
+  
+Connecter to VGA  
+!["picture"](pic04.jpg)
    
-   r.h 2025/5/18
+r.h 2025/5/18
    
